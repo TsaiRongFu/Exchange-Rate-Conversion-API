@@ -16,4 +16,4 @@
 * terminal輸入 `python unit_test.py`
 * 查看最終執行結果
 
-#### <font color=red>Flask非正式API工具開發環境，為求快速開發所以使用此套件，正式伺服器會選用Django做開發</font>
+#### **Flask非正式API工具開發環境，為求快速開發所以使用此套件，正式伺服器會選用Django做開發**
